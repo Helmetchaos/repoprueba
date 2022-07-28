@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activity2</string>
+    <string-array name="fotos">
+        <item>Guapa</item>
+        <item>Gato</item>
+        <item>Oso</item>
+    </string-array>
+</resources>
